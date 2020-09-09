@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project has been developed in react using hooks, axios, react-router, etc. Basically is a portal that allows to the user's create an account and manage their projects(CRUD) which could have some tasks(CRUD). The backend side has been developed in express using mongpDB, also has a authentication module through jsonwebtokens https://github.com/edgar031824/MERN-API
+This project has been developed in react using hooks, axios, react-router, etc. Basically is a portal that allows to the users create an account and manage their projects(CRUD) which could have some tasks(CRUD). The backend side has been developed in express using mongoDB, also has an authentication module through jsonwebtokens https://github.com/edgar031824/MERN-API
 
 ## Available Scripts
 
